@@ -5,9 +5,8 @@ List of Sites:
 
 * Meh (МЭ) Alphabet
 
+(https://rawgit.com/legacy-vault/sites/master/meh/index.html)
+
 >Artificial phonetic Alphabet «МЭ» ("Meh").
->Browser Link: (URL)
->
 >Scripting Tools to write «Melfa» and «Tengwar-Mix».
->
->Browser Link: (URL)
+
