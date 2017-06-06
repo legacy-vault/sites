@@ -16,3 +16,4 @@ List of Sites:
 
 >WEB2U WebSite.
 >Resurrected Version from the Year 2008.
+>[Achtung! RawGit works badly with Encoding! WebSites may look not as they are.]
