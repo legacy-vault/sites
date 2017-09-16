@@ -1,0 +1,32 @@
+{
+	"type": "menu",
+	"items_count": 10,
+
+	"titles": 
+	[
+		"WELCOME",
+		"МЭ ALPHABET",
+		"МЭ LETTERS",
+		"МЭ NUMBERS",
+		"МЭ SCHEMES",
+		"МЭ FILES",
+		"МELFA SKRIPT",
+		"TENGWAR MIX SKRIPT",
+		"FORUM",
+		"NEWS"
+	],
+
+	"links": 
+	[
+		"welcome.json",
+		"meh_alphabet.json",
+		"meh_letters.json",
+		"meh_numbers.json",
+		"meh_schemes.json",
+		"meh_files.json",
+		"melfa_skript.json",
+		"tengwar_mix_skript.json",
+		"forum.json",
+		"news.json"
+	]
+}

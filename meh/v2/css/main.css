@@ -1,0 +1,269 @@
+/* main.css */
+
+/*
+
+	NOTES
+
+	Total Site's Minimal Width = 640 Pixels.
+	Total Site's Maximal Usable Width = 800 Pixels.
+	Recommended Maximal Width of Content is 320 Pixels.
+
+*/
+
+/* ============{ Style for Tag }============================================= */
+
+body,
+html,
+img,
+td,
+tr
+{
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	background-color: #000000;
+}
+
+table
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+td
+{
+	vertical-align: top;
+}
+
+/* ============{ Style for Class }=========================================== */
+
+.col_grey
+{
+	color: #888888;
+}
+
+.col_red
+{
+	color: #FF0000;
+}
+
+.ta_left
+{
+	text-align: left;
+}
+
+/* ============{ Style for Tag with Class }================================== */
+
+div.header
+{
+	height: 100%;
+	width: 100%;
+	max-height: 57px;
+	min-width: 346px; 
+	overflow: hidden;
+}
+
+div.layer_1
+{
+	left: 0;
+	position: absolute;
+	top: 0;
+	z-index: 1;
+}
+
+div.layer_2
+{
+	left: 244px;
+	position: absolute;
+	top: 154px;
+	z-index: 2;
+	display: none; /* dbg */
+}
+
+div.mca
+{
+	color: #333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 14px;
+	font-weight: normal;
+}
+
+div.menu
+{
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+}
+
+div.menu_item_common
+{
+	cursor: pointer;
+	padding-bottom: 5px;
+}
+
+div.menu_item_active
+{
+	cursor: pointer;
+	padding-bottom: 5px;
+	color: purple;
+	font-weight: bold;
+}
+
+div.u_2
+{
+	background-image: url("../img/site/bg/u_2.png");
+	height: 41px;
+	width: 210px;
+}
+
+div.u_4
+{
+	background-image: url("../img/site/bg/u_4.png");
+	height: 56px;
+	width: 210px;
+}
+
+div.u_5
+{
+	background-image: url("../img/site/bg/u_5.png");
+	height: 207px;
+	width: 47px;
+}
+
+div.u_6
+{
+	background-image: url("../img/site/bg/u_6.png");
+	height: 207px;
+	width: 54px;
+}
+
+div.subtitle
+{
+	color: #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 12px;
+	font-weight: bold;
+}
+
+div.title
+{
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 20px;
+	font-weight: bold;
+	padding-bottom: 4px;
+}
+
+img.fl_left
+{
+	float: left;
+	margin: 7px;
+}
+
+img.fl_right
+{
+	float: right;
+	margin: 7px;
+}
+
+td.b_1
+{
+	background-image: url("../img/site/bg/b_1.png");
+	height: 154px;
+	width: 244px;
+	min-width: 244px;
+	max-height: 154px;
+}
+
+td.b_2
+{
+	background-image: url("../img/site/bg/b_2.png");
+	height: 41px;
+	width: 506px;
+}
+
+td.b_3
+{
+	background-image: url("../img/site/bg/b_3.png");
+	height: 154px;
+	width: 50px;
+	min-width: 50px;
+}
+
+td.b_4
+{
+	background-image: url("../img/site/bg/b_4.png");
+	height: 56px;
+	width: 506px;
+}
+
+td.b_5
+{
+	background-image: url("../img/site/bg/b_5.png");
+	width: 47px;
+}
+
+td.b_6
+{
+	background-image: url("../img/site/bg/b_6.png");
+	width: 54px;
+}
+
+td.b_7
+{
+	background-image: url("../img/site/bg/b_7.png");
+	width: 50px;
+}
+
+td.b_8
+{
+	background-image: url("../img/site/bg/b_8.png");
+	height: 44px;
+	width: 244px;
+}
+
+td.b_9
+{
+	background-image: url("../img/site/bg/b_9.png");
+	height: 44px;
+	width: 506px;
+}
+
+td.b_10
+{
+	background-image: url("../img/site/bg/b_10.png");
+	height: 44px;
+	width: 50px;
+}
+
+td.header
+{
+    background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+	height: 57px;
+	vertical-align: top;
+	width: 506px;
+}
+
+td.mca
+{
+	background-color: #FFFFFF;
+	width: 506px;
+}
+
+td.menu
+{
+	background-color: #FFFFFF;
+	width: 143px;
+}
