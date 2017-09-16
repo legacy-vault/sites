@@ -5,7 +5,7 @@ List of Sites:
 
 * Meh (МЭ) Alphabet
 
-(https://rawgit.com/legacy-vault/sites/master/meh/index.html)
+(https://rawgit.com/legacy-vault/sites/master/meh/v2/index.xhtml)
 
 > Artificial phonetic Alphabet «МЭ» ("Meh").
 > 
