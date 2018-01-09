@@ -1,0 +1,16 @@
+<style>
+.menu1   { font-family:Tahoma; font-size:30px; color:yellow}
+.menu2   { font-family:Tahoma; font-size:15px; color:yellow}
+.menu3   { font-family:Tahoma; font-size:11px; color:yellow}
+.menu4   { font-family:Tahoma; font-size:15px; color:black }
+BODY     {
+	      SCROLLBAR-FACE-COLOR: #000000; SCROLLBAR-HIGHLIGHT-COLOR: #000000; SCROLLBAR-SHADOW-COLOR: #FFFF00;
+	      SCROLLBAR-3DLIGHT-COLOR: #000000; SCROLLBAR-ARROW-COLOR: #FFFF00; SCROLLBAR-TRACK-COLOR: #000000;
+	      SCROLLBAR-DARKSHADOW-COLOR: #000000; SCROLLBAR-BASE-COLOR: #000000; TEXT-ALIGN: center
+         }
+A        {COLOR: #00AA00; TEXT-DECORATION: none;}  
+A:hover  {COLOR: #00FF00; TEXT-DECORATION: none;}
+.peeps      {font-family:Tahoma; font-size:12px; color:yellow}
+.peeps_link {font-family:Tahoma; font-size:13px; color:yellow; COLOR: #00AA00; TEXT-DECORATION: none;}
+.abold      {font-family:Tahoma; font-size:12px; color:black}
+</style>

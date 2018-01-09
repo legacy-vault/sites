@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Pason</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>Pason_03</title>
+            <link>slides/Pason_03.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_03.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_03.jpg" width="310" height="392"/>
+            <guid isPermaLink="false">slides/Pason_03.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_04</title>
+            <link>slides/Pason_04.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_04.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_04.jpg" width="307" height="392"/>
+            <guid isPermaLink="false">slides/Pason_04.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_05</title>
+            <link>slides/Pason_05.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_05.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_05.jpg" width="277" height="392"/>
+            <guid isPermaLink="false">slides/Pason_05.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_06</title>
+            <link>slides/Pason_06.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_06.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_06.jpg" width="302" height="392"/>
+            <guid isPermaLink="false">slides/Pason_06.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_07</title>
+            <link>slides/Pason_07.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_07.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_07.jpg" width="302" height="392"/>
+            <guid isPermaLink="false">slides/Pason_07.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_08</title>
+            <link>slides/Pason_08.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_08.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_08.jpg" width="293" height="392"/>
+            <guid isPermaLink="false">slides/Pason_08.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_09</title>
+            <link>slides/Pason_09.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_09.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_09.jpg" width="302" height="392"/>
+            <guid isPermaLink="false">slides/Pason_09.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_10</title>
+            <link>slides/Pason_10.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_10.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_10.jpg" width="302" height="392"/>
+            <guid isPermaLink="false">slides/Pason_10.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_11</title>
+            <link>slides/Pason_11.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_11.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_11.jpg" width="293" height="392"/>
+            <guid isPermaLink="false">slides/Pason_11.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_12</title>
+            <link>slides/Pason_12.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_12.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_12.jpg" width="293" height="392"/>
+            <guid isPermaLink="false">slides/Pason_12.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_13</title>
+            <link>slides/Pason_13.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_13.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_13.jpg" width="311" height="392"/>
+            <guid isPermaLink="false">slides/Pason_13.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_14</title>
+            <link>slides/Pason_14.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_14.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_14.jpg" width="302" height="392"/>
+            <guid isPermaLink="false">slides/Pason_14.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_15</title>
+            <link>slides/Pason_15.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_15.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_15.jpg" width="293" height="392"/>
+            <guid isPermaLink="false">slides/Pason_15.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_16</title>
+            <link>slides/Pason_16.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_16.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_16.jpg" width="260" height="392"/>
+            <guid isPermaLink="false">slides/Pason_16.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_17</title>
+            <link>slides/Pason_17.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_17.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_17.jpg" width="590" height="392"/>
+            <guid isPermaLink="false">slides/Pason_17.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_18</title>
+            <link>slides/Pason_18.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_18.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_18.jpg" width="302" height="392"/>
+            <guid isPermaLink="false">slides/Pason_18.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_19</title>
+            <link>slides/Pason_19.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_19.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_19.jpg" width="260" height="392"/>
+            <guid isPermaLink="false">slides/Pason_19.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_20</title>
+            <link>slides/Pason_20.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_20.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_20.jpg" width="293" height="392"/>
+            <guid isPermaLink="false">slides/Pason_20.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_21</title>
+            <link>slides/Pason_21.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_21.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_21.jpg" width="349" height="525"/>
+            <guid isPermaLink="false">slides/Pason_21.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_22</title>
+            <link>slides/Pason_22.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_22.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_22.jpg" width="349" height="473"/>
+            <guid isPermaLink="false">slides/Pason_22.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_23</title>
+            <link>slides/Pason_23.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_23.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_23.jpg" width="293" height="392"/>
+            <guid isPermaLink="false">slides/Pason_23.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_24</title>
+            <link>slides/Pason_24.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_24.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_24.jpg" width="474" height="333"/>
+            <guid isPermaLink="false">slides/Pason_24.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_25</title>
+            <link>slides/Pason_25.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_25.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_25.jpg" width="478" height="269"/>
+            <guid isPermaLink="false">slides/Pason_25.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_26</title>
+            <link>slides/Pason_26.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_26.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_26.jpg" width="477" height="270"/>
+            <guid isPermaLink="false">slides/Pason_26.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_27</title>
+            <link>slides/Pason_27.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_27.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_27.jpg" width="477" height="270"/>
+            <guid isPermaLink="false">slides/Pason_27.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_28</title>
+            <link>slides/Pason_28.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_28.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_28.jpg" width="472" height="305"/>
+            <guid isPermaLink="false">slides/Pason_28.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_29</title>
+            <link>slides/Pason_29.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_29.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_29.jpg" width="472" height="305"/>
+            <guid isPermaLink="false">slides/Pason_29.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_30</title>
+            <link>slides/Pason_30.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_30.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_30.jpg" width="472" height="305"/>
+            <guid isPermaLink="false">slides/Pason_30.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_31</title>
+            <link>slides/Pason_31.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_31.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_31.jpg" width="472" height="271"/>
+            <guid isPermaLink="false">slides/Pason_31.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_32</title>
+            <link>slides/Pason_32.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_32.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_32.jpg" width="472" height="271"/>
+            <guid isPermaLink="false">slides/Pason_32.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_33</title>
+            <link>slides/Pason_33.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_33.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_33.jpg" width="489" height="392"/>
+            <guid isPermaLink="false">slides/Pason_33.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_34</title>
+            <link>slides/Pason_34.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_34.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_34.jpg" width="519" height="392"/>
+            <guid isPermaLink="false">slides/Pason_34.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_35</title>
+            <link>slides/Pason_35.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_35.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_35.jpg" width="286" height="392"/>
+            <guid isPermaLink="false">slides/Pason_35.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_36</title>
+            <link>slides/Pason_36.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_36.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_36.jpg" width="293" height="392"/>
+            <guid isPermaLink="false">slides/Pason_36.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_37</title>
+            <link>slides/Pason_37.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_37.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_37.jpg" width="627" height="392"/>
+            <guid isPermaLink="false">slides/Pason_37.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_38</title>
+            <link>slides/Pason_38.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_38.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_38.jpg" width="505" height="392"/>
+            <guid isPermaLink="false">slides/Pason_38.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_00</title>
+            <link>slides/Pason_00.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_00.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_00.jpg" width="302" height="392"/>
+            <guid isPermaLink="false">slides/Pason_00.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_01</title>
+            <link>slides/Pason_01.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_01.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_01.jpg" width="302" height="392"/>
+            <guid isPermaLink="false">slides/Pason_01.jpg</guid>
+        </item>
+        <item>
+            <title>Pason_02</title>
+            <link>slides/Pason_02.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:22:17 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Pason_02.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/Pason_02.jpg" width="528" height="392"/>
+            <guid isPermaLink="false">slides/Pason_02.jpg</guid>
+        </item>
+    </channel>
+</rss>
