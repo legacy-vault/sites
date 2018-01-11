@@ -1,0 +1,342 @@
+<html>
+<head>
+<title>Фотостудия Photo Techno - Галерея - Разное</title>
+<meta name="Description" content="Фотостудия Photo Techno предлагает : Съёмка для каталогов, съёмка портретов, выездная съёмка, компьютерная графика, фотографии для знакомств, художественная фотография, создание изображений плакатов, открыток, баннеров, создание веб-сайтов, презентаций и музыкальных клипов.">
+<meta name="Keywords" content="Фотостудия,Photo,фото,Techno,техно,предлагает,съёмка,для,каталогов,портретов,выездная,компьютерная,графика,фотографии,знакомств,художественная,создание,изображений,плакатов,открыток,баннеров,веб-сайтов,презентаций,музыкальных,клипов,заказ,печать,отбор,редактирование,запись,галерея,примеры,работ,ценыфотоуслуги,услуги,фотосессия">
+<link href="style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+  var big_adr;
+  var small_adr;
+  var ex;
+  var n;
+  var v;
+  var last;
+  var none_image;
+  var right_arrow;
+  var left_arrow; 
+  function start()
+  {
+    right_arrow = "img/btn_scroll_right.jpg";
+	left_arrow = "img/btn_scroll_left.jpg";
+    ext = ".jpg";
+	none_image = "img/none.gif";
+    custom();
+	last = v;
+	left();
+  }
+</script>
+<script src="scripts/12.js"></script>
+<script>
+  function left()
+  {
+    last--;
+	if (last > v)
+	  document.images["ar_left"].src = left_arrow
+	else
+	{
+	  document.images["ar_left"].src = none_image;
+	  last = v;
+	}
+	if (last < n)
+	  document.images["ar_right"].src = right_arrow
+	else
+	{
+	  document.images["ar_right"].src = none_image;
+	}  
+	refresh();
+  }
+  function right()
+  {
+    last++;
+	if (last < n)
+	  document.images["ar_right"].src = right_arrow
+	else
+	{
+	  document.images["ar_right"].src = none_image;
+	  last = n;
+	}
+	if (last > v)
+	  document.images["ar_left"].src = left_arrow
+	else
+	{
+	  document.images["ar_left"].src = none_image;
+	}
+    refresh();
+  }
+  function refresh()
+  {
+	var i;
+	var t;
+    for (i = 1; i < v+1; i++)
+	{
+	  t = last - v + i;
+	  eval("document.images['vis" + i + "'].src='" + small_adr + t + ext + "'");
+	}  
+  }
+  function show(i)
+  {
+    var t;
+	t = last - v + i;
+    document.images["big"].src = big_adr + t + ext;
+  }
+</script>
+</head>
+<body bgcolor="#9EC189" text="#000000" link="#000000" vlink="#000000" alink="#0000FF" leftmargin="0" topmargin="0" marginheight="0" onLoad="start();">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="left" height="100%">
+ <tr>
+  
+  <td width="210"><!-- левая колонка -->
+   <table width="210" border="0" cellspacing="0" cellpadding="0" height="100%" bgcolor="#5F7452">
+    <tr>
+	 <td height="193" background="img/logo_small.jpg"></td>
+	</tr>
+	<tr>
+	 <td height="66" class="name_small">
+	  Photo
+	  <br>
+	  <div align="right">Techno</div>
+	 </td>
+	</tr>
+	<tr>
+	 <td height="1" bgcolor="black" width="100%"></td>
+	</tr>
+	<!-- левое меню -->
+	<tr>
+	 <td class="left_menu" width="100%" align="left">
+	  <table border="0" cellspacing="0" cellpadding="0" align="left">
+	   <tr>
+	    <td><img src="img/part_1.jpg" border="0"></td> 
+		<td class="left_menu">
+		 <a href="gallery_cat_1.html">Съёмка для каталогов</a>
+		</td>
+	   </tr>
+	  </table>
+	 </td>
+	</tr>	
+	<tr>
+	 <td class="left_menu" align="left">
+	  <table border="0" cellspacing="0" cellpadding="0" align="left">
+	   <tr>
+	    <td><img src="img/part_2.jpg" border="0"></td> 
+		<td class="left_menu">
+		 <a href="gallery_cat_2.html">Съёмка портретов</a>
+		</td>
+	   </tr>
+	  </table>
+	 </td>
+	</tr>
+	<tr>
+	 <td class="left_menu" align="left">
+	  <table border="0" cellspacing="0" cellpadding="0" align="left">
+	   <tr>
+	    <td><img src="img/part_3.jpg" border="0"></td> 
+		<td class="left_menu">
+		 <a href="gallery_cat_3.html">Выездная съёмка</a>
+		</td>
+	   </tr>
+	  </table>
+	 </td>
+	</tr>
+	<tr>
+	 <td class="left_menu" align="left">
+	  <table border="0" cellspacing="0" cellpadding="0" align="left">
+	   <tr>
+	    <td><img src="img/part_5.jpg" border="0"></td> 
+		<td class="left_menu">
+		 <a href="gallery_cat_4.html">Компьютерная графика</a>
+		</td>
+	   </tr>
+	  </table>
+	 </td>
+	</tr>
+	<tr>
+	 <td class="left_menu" align="left">
+	  <table border="0" cellspacing="0" cellpadding="0" align="left">
+	   <tr>
+	    <td><img src="img/part_6.jpg" border="0"></td> 
+		<td class="left_menu">
+		 <a href="gallery_cat_6.html">Фото для знакомств</a>
+		</td>
+	   </tr>
+	  </table>
+	 </td>
+	</tr>
+	<tr>
+	 <td class="left_menu" align="left">
+	  <table border="0" cellspacing="0" cellpadding="0" align="left">
+	   <tr>
+	    <td><img src="img/part_7.jpg" border="0"></td> 
+		<td class="left_menu">
+		 <a href="gallery_cat_7.html">Художественная фотография</a>
+		</td>
+	   </tr>
+	  </table>
+	 </td>
+	</tr>
+	<tr>
+	 <td class="left_menu" align="left">
+	  <table border="0" cellspacing="0" cellpadding="0" align="left">
+	   <tr>
+	    <td><img src="img/part_8.jpg" border="0"></td> 
+		<td class="left_menu">
+		 <a href="gallery_cat_8.html">Создание изображений плакатов, открыток, баннеров и т.д.</a>
+		</td>
+	   </tr>
+	  </table>
+	 </td>
+	</tr>
+	<tr>
+	 <td class="left_menu" align="left">
+	  <table border="0" cellspacing="0" cellpadding="0" align="left">
+	   <tr>
+	    <td><img src="img/part_9.jpg" border="0"></td> 
+		<td class="left_menu">
+		 <a href="gallery_cat_9.html">Создание веб-сайтов</a>
+		</td>
+	   </tr>
+	  </table>
+	 </td>
+	</tr>
+	<tr>
+	 <td class="left_menu" align="left">
+	  <table border="0" cellspacing="0" cellpadding="0" align="left">
+	   <tr>
+	    <td><img src="img/part_10.jpg" border="0"></td> 
+		<td class="left_menu">
+		 <a href="gallery_cat_10.html">Создание презентаций</a>
+		</td>
+	   </tr>
+	  </table>
+	 </td>
+	</tr>
+	<tr>
+	 <td class="left_menu" align="left">
+	  <table border="0" cellspacing="0" cellpadding="0" align="left">
+	   <tr>
+	    <td><img src="img/part_11.jpg" border="0"></td> 
+		<td class="left_menu">
+		 <a href="gallery_cat_11.html">Создание музыкальных клипов</a>
+		</td>
+	   </tr>
+	  </table>
+	 </td>
+	</tr>
+	<tr>
+	 <td class="left_menu" align="left">
+	  <table border="0" cellspacing="0" cellpadding="0" align="left">
+	   <tr>
+	    <td><img src="img/part_12.jpg" border="0"></td> 
+		<td class="left_menu">
+		 <a href="gallery_cat_12.html">Разное</a>
+		</td>
+	   </tr>
+	  </table>
+	 </td>
+	</tr>
+	<tr>
+	 <td height="1" width="100%" bgcolor="black"></td></td>
+	</tr>
+	<!-- tr>
+	 <td width="100%" class="copyright" align="center">
+	  <br>
+	  [Место для счётчиков]
+	  <br><br>
+	 </td>
+	</tr -->
+	<tr>
+	 <td height="1" width="100%" bgcolor="black"></td></td>
+	</tr>
+	<tr>
+	 <td width="100%" class="copyright" style="padding-left: 5">
+	   © Photo-Techno & McArcher, 2005-2011<br><br>
+	 </td>
+	</tr>
+	<tr>
+	 <td height="100%">
+	 </td>
+	</tr>
+   </table>
+  </td>
+  
+  <td width="1"><!-- черта -->
+   <table width="1" border="0" cellspacing="0" cellpadding="0" height="100%">
+    <tr height="83">
+	 <td></td>
+	</tr>
+	<tr height="100%">
+	 <td bgcolor="black">
+	 </td>
+	</tr>
+   </table>
+  </td>
+  
+  <td width="600"><!-- средняя колонка -->
+   <table width="600" border="0" cellspacing="0" cellpadding="0" height="100%" bgcolor="#CDEBBB">
+    <tr>
+	 <td height="55" width="100%" bgcolor="#9EC189"></td>
+	</tr>
+	<tr>
+	 <td height="28" align="right" background="img/bg_menu.jpg" colSpan="3" class="menu">
+   	  <a href="index.html" class="menu">Главная</a>
+   <img src="img/spacer.gif" width="30" height="1">
+   <a href="gallery.html" class="menu">Галерея</a>
+   <img src="img/spacer.gif" width="30" height="1">
+   <a href="contacts.html" class="menu">Контакты</a>
+   <img src="img/spacer.gif" width="15" height="1">
+     </td>
+	</tr>
+	<tr>
+	 <td height="1" width="100%" bgcolor="black"></td>
+	</tr>
+	<tr>
+	 <td class="subcategory">
+	  Галерея / Разное
+	 </td>
+	</tr>
+	<tr>
+	 <td height="100%" class="main" valign="top">
+	   <img src="img/big/12/1.jpg" name="big" id="big" border="1">
+	   <br>
+	   <br>
+	   <table>
+	   <tr>
+	    <td><img src="img/btn_scroll_left.jpg" name="ar_left" id="ar_left" border="0" onClick="left()"></td>
+		<td><img src="img/small/12/1.jpg" name="vis1" id="vis1" border="1" onClick="show(1)"></td>
+		<td><img src="img/small/12/2.jpg" name="vis2" id="vis2" border="1" onClick="show(2)"></td>
+		<td><img src="img/small/12/3.jpg" name="vis3" id="vis3" border="1" onClick="show(3)"></td>
+		<td><img src="img/small/12/4.jpg" name="vis4" id="vis4" border="1" onClick="show(4)"></td>
+		<td><img src="img/small/12/5.jpg" name="vis5" id="vis5" border="1" onClick="show(5)"></td>
+		<td><img src="img/small/12/6.jpg" name="vis6" id="vis6" border="1" onClick="show(6)"></td>
+	    <td><img src="img/btn_scroll_right.jpg" name="ar_right" id="ar_right" border="0" onClick="right()"></td>
+	   </tr>
+	   </table>
+	 </td>
+	</tr>
+	<tr>
+	 <td height="100%" width="100%"></td>
+	</tr>
+   </table>
+  </td>
+  
+  <td width="1"><!-- черта -->
+   <table width="1" border="0" cellspacing="0" cellpadding="0" height="100%">
+    <tr height="83">
+	 <td></td>
+	</tr>
+	<tr height="100%">
+	 <td bgcolor="black">
+	 </td>
+	</tr>
+   </table>
+  </td>
+  
+  <td width="100%"><!-- правая колонка (пустая) -->
+  </td>
+ </tr>
+</table>
+
+
+<!-- copyright (i7) --><div align="center"><a href="http://www.ucoz.ru/" title="Создать сайт бесплатно"><img style="margin:0;padding:0;border:0;" alt="Hosted by uCoz" src="http://s205.ucoz.net/img/cp/11.gif" width="80" height="15" title="Hosted by uCoz" /></a><br /></div><!-- /copyright -->
+</body>
+</html>
