@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Lindsey Connell</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>lindsey_connell_2</title>
+            <link>slides/lindsey_connell_2.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:10:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lindsey_connell_2.jpg" width="140" height="100"/>
+            <media:content type="image/png" url="slides/lindsey_connell_2.jpg" width="720" height="400"/>
+            <guid isPermaLink="false">slides/lindsey_connell_2.jpg</guid>
+        </item>
+        <item>
+            <title>lindsey_connell_3</title>
+            <link>slides/lindsey_connell_3.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:10:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lindsey_connell_3.jpg" width="140" height="100"/>
+            <media:content type="image/png" url="slides/lindsey_connell_3.jpg" width="720" height="400"/>
+            <guid isPermaLink="false">slides/lindsey_connell_3.jpg</guid>
+        </item>
+        <item>
+            <title>lindsey_connell_4</title>
+            <link>slides/lindsey_connell_4.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:10:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lindsey_connell_4.jpg" width="140" height="100"/>
+            <media:content type="image/png" url="slides/lindsey_connell_4.jpg" width="720" height="400"/>
+            <guid isPermaLink="false">slides/lindsey_connell_4.jpg</guid>
+        </item>
+        <item>
+            <title>lindsey_connell_1</title>
+            <link>slides/lindsey_connell_1.jpg#</link>
+            <pubDate>Sat, 07 May 2011 19:10:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lindsey_connell_1.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/lindsey_connell_1.jpg" width="600" height="338"/>
+            <guid isPermaLink="false">slides/lindsey_connell_1.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,26 @@
+Arma version: Arma2 + Arma2:OA + patch 1.54
+URL of this file: http://www.mcarcher.narod.ru/img/pub/bugs.txt
+
+Bugs:
+
+1. Me and AI in my group have very ugly model. See screenshot at http://www.mcarcher.narod.ru/img/pub/arma2co_1.54_critical_bugs_screen_1.jpg
+2. Another bug with AI. The following code doesn't work properly in Dedicated server. Explanation below.
+
+[code]
+if (isServer) then
+{
+	{
+		if (not (isPlayer _x)) then
+		{
+			_x disableAI "MOVE";
+			_x disableAI "TARGET";
+			_x disableAI "AUTOTARGET";
+			diag_log format ["Unit %1 was set unmovable.", _x];///////////////////dbg
+		}
+		else { diag_log format ["Unit %1 skipped as player.", _x]; };///////////////////dbg};
+	} forEach playableUnits;	
+};
+[/code]
+
+It says that an AI in my group is a player! Myabe 'isPlayer' functon, or something else is bugged?!...
+Note: on non-dedicated server everything works in this par of code as it should.

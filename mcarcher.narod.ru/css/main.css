@@ -1,0 +1,75 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+.bg_left {
+	background-position: right;
+	background-repeat: no-repeat;
+}
+.bg_right {
+	background-position: left;
+	background-repeat: no-repeat;
+}
+.bg_top {
+	background-position: top;
+	background-repeat: no-repeat;
+}
+.bg_top_left {
+	background-position: top right;
+	background-repeat: no-repeat;
+}
+.bg_top_right {
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+@font-face {
+    font-family: Alien League;
+    src: url('fonts/alien5.ttf') format('truetype');
+}
+.alien_font1 {
+	font-family: Alien League; /* no .ttf */
+	color: white;
+	font-size: 26px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+}
+.alien_font2 {
+	font-family: Alien League; /* no .ttf */
+	color: white;
+	font-size: 23px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+}
+.title1 {
+	padding-left: 40px;	
+	padding-right: 40px;
+}
+.rus_font1 {
+	font-family: Tahoma;
+	color: white;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.rus_warning_font1 {
+	font-family: Tahoma;
+	color: orange;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: middle;
+}

@@ -1,0 +1,119 @@
+.menu
+{
+	font-family : Tahoma;
+	font-size : 12;
+	padding-left : 10;
+	color : Black;
+	text-align : left;
+}
+.ad
+{
+	font-family : Tahoma;
+	font-size : 10;
+	padding-left: 10;
+	padding-right: 10;	
+	padding-bottom: 10;
+	color : Black;
+	text-align : center;
+}
+.text
+{
+	font-family : Tahoma;
+	font-size : 12;
+	padding-left: 10;
+	padding-right: 10;	
+	padding-bottom: 10;
+	color : Black;
+	text-align : left;
+}
+.textC
+{
+	font-family : Tahoma;
+	font-size : 12;
+	padding-left: 10;
+	padding-right: 10;	
+	padding-bottom: 10;
+	color : Black;
+	text-align : center;
+}
+.font1
+{
+	font-family : Tahoma;
+	font-size : 11;
+	padding-left: 10;
+	padding-right: 10;	
+	color : black;
+	text-align : left;
+}
+.font2
+{
+	font-family : Tahoma;
+	font-size : 11;
+	padding-left: 10;
+	padding-right: 10;	
+	color : black;
+	text-align : left;
+}
+.font3
+{
+	font-family : Tahoma;
+	font-size : 12;
+	padding-left: 10;
+	padding-right: 10;	
+	color : black;
+	text-align : left;
+}
+.font4
+{
+	font-family : Tahoma;
+	font-size : 12;
+	padding-left: 10;
+	padding-right: 10;	
+	color : green;
+	text-align : left;
+}
+.font5
+{
+	font-family : Tahoma;
+	font-size : 11;
+	padding-left: 10;
+	padding-right: 10;	
+	color : white;
+	text-align : left;
+}
+.title
+{
+	font-family : Tahoma;
+	font-weight: bold;
+	font-size : 14;
+	padding-left: 10;
+	padding-right: 10;	
+	color : white;
+	text-align : left;
+}
+A
+{
+	font-family : Tahoma;
+	font-size : 11;
+	padding-left : 10;
+	color : #053F1E;
+	text-align : left;
+	text-decoration : none;
+}
+A:hover
+{
+	font-family : Tahoma;
+	font-size : 11;
+	padding-left : 10;
+	color : white;
+	text-align : left;
+	text-decoration : none;
+}
+BODY
+{
+	border: 0;
+}
+.extra
+{
+	color: green;
+}

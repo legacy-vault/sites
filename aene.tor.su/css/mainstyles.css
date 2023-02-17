@@ -1,0 +1,50 @@
+body {
+	font-size:		10pt;
+	color:		black;
+	background-color: white;
+	font-family:	DejaVu Sans;
+}
+a {
+	color:		darkblue;
+}
+a:hover {
+	color:		red;
+}
+a:visited {
+	color:		purple;
+}
+font.index_header {
+	font-size:		14pt;
+	color:		purple;
+	font-family:	DejaVu Sans;
+}
+td.o {
+	width:	10px;
+	height:	10px;
+	background-color:	transparent;
+}
+td.i {
+	width:	10px;
+	height:	10px;
+	background-color:	purple;
+}
+font.index_comment {
+	font-size:		7pt;
+	color:		gray;
+	font-family:	DejaVu Sans;
+}
+h2 {
+	font-size:		12pt;
+	color:		purple;
+	font-family:	DejaVu Sans;
+}
+h3 {
+	font-size:		11pt;
+	color:		purple;
+	font-family:	DejaVu Sans;
+}
+h7{
+	font-size:		7pt;
+	color:		gray;
+	font-family:	DejaVu Sans;
+}

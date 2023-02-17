@@ -1,0 +1,165 @@
+[img]http://mcarcher.narod.ru/mcti/img/w1_preview1.jpg[/img]
+
+[B]MCTI [/B]is a variation of an oldschool CTI gamemode from good old Operation Flashpoint (OFP).
+
+[B]Actual version[/B] of the mission is [COLOR="Orange"][B]MCTI R10 40vs40[/B][/COLOR].
+
+[B]Official MCTI website[/B]
+[url=http://mcarcher.narod.ru/mcti.html]http://mcarcher.narod.ru/mcti.html[/url]
+
+[B]It can be downloaded here[/B] -> 
+Mirror 1: [url=http://mcarcher.narod.ru/mcti/distrib/mcti_r10_40vs40.Chernarus.rar]MCTI R10 40vs40[/url]
+Mirror 2: [url=http://www.armaholic.com/page.php?id=9135]MCTI R10 40vs40[/url]
+Mirror 3: [url=]MCTI R10 40vs40[/url]
+MD5 is 0F8B5D016F3FF3A25AA46F4148B208C2
+
+
+[B]Previous version[/B]
+[SPOILER]
+Mirror 1: [url=http://www.armaholic.com/page.php?id=9135]MCTI R9 40vs40[/url]
+Mirror 2: [url=http://www.armedassault.info/index.php?game=1&cat=multi&id=196]MCTI R9 40vs40[/url]
+Mirror 3: [url=http://mcarcher.narod.ru/mcti/distrib/mcti_r9_40vs40.Chernarus.rar]MCTI R9 40vs40[/url]
+MD5 is 5A94F6D7D48F9771708535861DA18B37
+[/SPOILER]
+
+[B]Installation[/B]
+
+Just unzip (unarchive) the *.rar file and put a *.pbo file into your [I]ArmA2\MPMissions[/I] folder (for example, into [i]"C:\Games\ArmA2\MPMissions"[/i]).
+Note: mission requires the latest version of Arma 2 (OA is not needed).
+
+[B]MCTI Game Rules and Features[/B]
+
+1. Two sides (east and west) are fighting for zones on the island. Each area (most of them are towns) can be captured and will bring some income to the side, which captured it. Income depends on the area size and strategical importance (airports are equal to middle-sized towns). To capture a zone, get close to its flag, and capture it (use action menu to raise your flag). Capturing is allowed only if there are no enemies nearby. To see a game score (number of towns captured, money available and income) use action menu.
+
+2. As opposed to original MFCTI, money in MCTI is shared between all players of the team. (This was made due to very often money borrowings for commander in MFCTI)
+
+3. MHQ is the most important vehicle in your game. It is used for building base structures, defences and so on. It mustn't be used as an assault vehicle, because once it has been demolished, you won't be able to build your base anymore. However, as a vehicle, MHQ can be repaired, if it is not totally destroyed yet (use repair trucks for that purpose). MHQ must be driven mostly by commander (but other players are also able to drive it), but ability to build your base is only of your Commander. Commander of the team is the first playable slot in the game. To begin constructing base you must get out of MHQ. When you get in MHQ, you are not able to build (Note: There is a delay between disembarking the MHQ and action appearing in your action list).
+
+4. There are several types of buildings in game. Three visual styles of barracks, which can provide loadouts for your team (you can deploy up to 3 crates with weapons and ammo from them. Time between deployments cannot be less than some period). Light and Heavy Factories will produce vehicles for you. (you can use buy menu to buy and queue menu to watch current tasks of the factory). Aircraft Factory can produce aircrafts.
+
+5. In order to produce vehicles, factories need electricity. You can place Diesel Power Generators near them. Depending on the base production time of your vehicle and number of generators near factory, time of production can vary. (Factories are smart enough to stop production if money is depleted or all generators nearby have been destroyed. They will also change their speed of producing when additional generators are built.). Distance between factrory and generator to be used by it is limited.
+
+6. Radio Communication can be enabled by Radio terminal (UAV terminal building from warfare) and it provides respawning not only to MHQ, but also to Field Hospitals and Mobile Field Hospitals, deployed from your medical support vehicles (ambulance). Without radio communication enabled you can respawn only near your MHQ.
+
+7. In MCTI you cannot buy AI soldiers in barracks. This is the biggest difference from original MFCTI. Also, like the shared money, this was made to stimulate healthy teamplay and strong team spirit, like in COOP missions. And that's why number of playable units has been increased to 40 per side.
+
+8. You can not only repair with Repair Trucks, but also build some fortifications and other structures. Number of structures available for Commander and for the trucks are more than enough.
+
+9. Cost balancing tries to make game more difficult and realistic.
+
+10. As opposed to warfare, vehicles are not lockable here, this was made first to avoid warfares numerous bugs and, second, to give an ability to steal enemy's vehicles. (stealing is especially funny in veteran mode).
+
+11. Areas are commonly defended by resistance forces (you can disable them at game start) and Civilian cars can be selected to spawn in towns too.
+
+12. Markers of the buildings and field hospitals are seen only to members of the same side, but town/area markers are seen to both sides, you and your enemy. This feature was taken from CTF and C&H styled games. It makes game more dynamic and building base - more dangerous. Markers of buildings and field hospitals are visible only with radio communication enabled (build radio terminal for that purpose).
+
+13. Vehicles don't explode if left empty, as opposed to warfare! Field hospitals and mobile ones disappear in a few seconds after their destruction.
+
+14. Artillery and Logistics is implemented by [R3F]'s script. More information here -> [url]http://forums.bistudio.com/showthread.php?t=94280[/url] (Note: you don't need to download or install anything from that page, it is already included into the mission).
+
+15. Since version R7, Mission supports AI Commander and AI Units. In present version of mission, AI Commander builds maximum one base. AI Units are able to get weapons from crates (virtually, because BIS hasn't included vehicles cargo function in Arma 2, opposed to VBS2) and are able to search corpses for weapons and ammo. If unit doesn't have enough magazines for his primary weapon, he will also search in corpses. Also, injured units, who cannot stand or walk, stay at town flags and call for a medic. Moreover, AI units are smart enough to select a nearest respawn point to the town being captured, when Radio Terminal has been built and allows respawning to Field Hospitals and Mobile Field Hospitals (Mashes).
+
+Note: Enabling AI Units and Resistance Forces is highly recommended ONLY ON DEDICATED SERVER - otherwise you will face the problem of huge fps drop on a player-hosted PC.
+
+[B]Some technical moments[/B]
+
+- As opposed to MFCTI's MODs, MCTI mission was written from scratch. Great thanks to those people who gave me advice about game scripting.
+- This mission tries to use least scripting possible to reduce lags and increase fps. This was also made due to BIS's bugs with lots of AIs at map.
+- According to previous fact, game can be run even on poor servers if without resistance AIs and AI units (shows 47 fps on old Athlon 64 X2 @2.0 GHz with civilian cars, no resistance and no AI units, like a common CTF/C&H map).
+- Advanced Construction Interface allows building everywhere and not only horizontally. Selling a building feature has been removed. You can hold SHIFT button to place additional structure of selected type (easy copy). Area of building was reduced in order not to allow spying with this tool. Height locked to 5 meters and radius to 50 meters.
+[COLOR="Orange"]- To restart game that is running or has finished after win, you must use [b]#reassign[/b] command. Don't use #restart with this mission, it won't work properly.[/COLOR]
+- To start game properly, you should wait a few seconds after all the town markers became yellow and then black, and few seconds after that.
+- Repair Truck Build menu appears after you get out of the truck, and disappears when you get into it. There is a known issue about building menu with repair trucks for JIP players. If you don't see "(Advanced)" action in the list, you should get in, and then get out of repair truck. This bug cannot be fixed now, because advanced CoIn was made to re-initialize BIS's original CoIn without modifying original one (in order not to make addon folders and make mission installaton easier).
+
+Artillery is working, but GRAD/MLRS are not yet supported in [R3F] Artillery and Logistic, which brings artillery into mission.
+
+If you have seen a bug or would like to suggest a feature, your feedback is welcome here, in this theread ( [url]http://forums.bistudio.com/showthread.php?t=93726[/url] ).
+
+[B]Changelog[/B]
+
+[SPOILER]
+R10
+- Changed: Artillery and Logistics script from [R3F] updated to v1.3.
+- Changed: Default mission parameters now include disabled AI Units, AI Commander, no resistance in town and no grass on ground.
+- Added: Grouping into squads with squad leaders.
+- Added: Special forces, snipers, and other types of squads.
+- Changed: Players' units roles are changed according to their place in squad.
+
+R9
+- Added: Apache AH-64D and AH-64D Sidewinder aircrafts, brought by 1.05 patch to Arma2;
+- Added: Game ending camera scripts;
+- Changed: Aircraft prices;
+- Changed: [R3F] scripts modified to use [i]hint[/i] instead of [i]globalChat[/i] command to display system messages to player.
+
+R8
+- Fixed: Income bug;
+- Fixed: AI Commander building when MHQ was destroyed or Commander was dead;
+- Fixed: Bug with crates after JIP;
+- Fixed: End of game bug when no players playing for a side;
+- Fixed: Positions of structures and vehicles at game start and built by AI Commander;
+- Fixed: Heavy and Aircraft Factories used wrong production times for vehicles;
+- Fixed: US side AI units respawned with weapons;
+- Fixed: Mobile Field Hospital could be deployed when helicopter was in the air;
+- Fixed: Factories can be used only by owner's side.
+
+R7
+- Added: Basic AI Commander and AI Units;
+- Fixed: Area capture script bug;
+- Fixed: Ammo crates bug for US;
+- Fixed: Structures' markers not visible bug;
+- Fixed: JIP respawn bug for US;
+- Fixed: Towers are now placed vertically with advanced CoIn (they change vector after placement);
+- Fixed: Airplanes are now finally removed;
+- Fixed: Wrong classname for NATO camo net;
+- Added: 3D clouds;
+- Added: New starting money option;
+- Changed: Costs for static weapons;
+- Changed: Artillery and Logistics script from [R3F] updated to v1.2.
+
+R6
+- Fixed: JIP positions bug;
+- Removed: Grouping playable units (it caused a lot of bugs);
+- Changed: Now small artillery gun can be built with MHQ and repair trucks;
+- Changed: Now artillery cannon can be produced only by Heavy Factory;
+- Changed: Starting positions and 3 vehicles at start.
+
+R5
+- Added: [R3F] Artillery and Logistic v1.1 (GRAD/MLRS support will be in future);
+- Added: Artillery command quarter in MHQ's build menu;
+- Fixed: Respawn at the same MASH bug;
+- Changed: Names and costs of some structures and vehicles;
+- Changed: Numbers of weapons and magazines in crates;
+- Changed: All players of one side are grouped in one group with a Commander as a leader;
+- Added: AI units are now able to capture areas (tell them to use apropriate action when they are near the flag);
+- Added: AI units now automatically equip weapons and magazines "from crates". They begin looking for a crate if they are empty and see a crate within 500 meters from them;
+- Changed: Downloadable mission is now archived with WinRAR and takes much less space. You can get the archiever at [url]http://rarlab.com/[/url] or use a compatible one.
+
+R4
+- Added: Building with Repair Trucks feature;
+- Added: New Barracks building and many other constructions;
+- Fixed: Some minor bugs.
+
+R3
+- Fixed: Resistance forces now don't shoot their vehicles (resistance CDF changed to resistance Guerillas; it seemed to be BIS's bug);
+- Fixed: Tents' names and costs;
+- Fixed: Respawn script;
+- Changed: MHQ construction interface area limits;
+- Changed: All airplanes are cut from mission, only helicopters are left from aircrafts (They will be returned in future, when "Wings of Russia" addon comes out, to balance them);
+- Changed: Helicopters costs and production time;
+- Added: Ability to host game on non-dedicated server.
+
+R2
+- Fixed: Startup parameters, sandbags' names;
+- Added: 2 new tents, Advanced Construction Interface, movable dialogs.
+
+R1
+- Initial release.
+[/SPOILER]
+
+[B]Credits[/B]
+
+Mission scripting: McArcher;
+Modified Construction Interface: MH6 and McArcher;
+Artillery and Logistics: [R3F] Artillery and Logistic;
+
+MCTI (C) McArcher, 2009-2010.
